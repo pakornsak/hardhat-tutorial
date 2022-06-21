@@ -10,7 +10,7 @@ contract Token {
     // Some string type variables to identify the token.
     // The `public` modifier makes a variable readable from outside the contract.
     string public name = "Chatchart";
-    string public symbol = "CHA";
+    string public symbol = "CHACHA";
 
     // The fixed amount of tokens stored in an unsigned integer type variable.
     uint256 public totalSupply = 100000000;
