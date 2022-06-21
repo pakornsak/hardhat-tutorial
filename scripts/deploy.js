@@ -1,5 +1,4 @@
 //@ts-check
-
 const { ethers } = require("hardhat");
 
 async function main() {
