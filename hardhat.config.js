@@ -8,7 +8,8 @@ const ALCHEMY_API_KEY = "KEY";
 // To export your private key from Metamask, open Metamask and
 // go to Account Details > Export Private Key
 // Be aware of NEVER putting real Ether into testing accounts
-const GOERLI_PRIVATE_KEY = "YOUR GOERLI PRIVATE KEY";
+const GOERLI_PRIVATE_KEY =
+  "1234567890123456789012345678901212345678901234567890123456789012";
 
 /**
  * @type import('hardhat/config').HardhatUserConfig
